@@ -1,1 +1,11 @@
 "use strict";
+let Name = "soomin";
+let Phone_number = 82647501;
+let Switch = true;
+let Squat = null;
+let Dead_lift = '0';
+console.log(Name);
+console.log(Phone_number);
+console.log(Switch);
+console.log(Squat);
+console.log(Dead_lift);

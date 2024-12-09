@@ -6,7 +6,8 @@
     "forceConsistentCasingInFileNames": true,          
     "strict": true,                                  
     "skipLibCheck": true,
-    "outDir": "src"                                 
+    "noUncheckedIndexedAccess": true,
+    "outDir": "src"
   },
   "include": ["origin/**/*"]
 }
